@@ -1,48 +1,9 @@
-👨‍💻 About Me
+## 📊 GitHub Stats
 
-Backend Engineer with a strong focus on building scalable, maintainable, and high-performance backend systems.
-Currently specializing in Java (Spring Boot) and Golang, with interest in system architecture, clean code, API design, and production-grade backend engineering.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyanhidayat-15&show_icons=true&theme=github_dark&hide_title=true)
 
-I enjoy solving reliability issues more than creating new features.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhidayat-15&layout=compact&theme=github_dark)
 
-🛠️ Tech Stack (Core Skills)
-Primary
+![GitHub Streak](https://streak-stats.demolab.com/?user=riyanhidayat-15&theme=github-dark)
 
-Java — Spring Boot
-
-Golang
-
-Secondary (Support Skills)
-
-SQL (MySQL / PostgreSQL)
-
-REST API Design
-
-Docker (basic usage)
-
-Git & GitHub Workflow
-
-
-📌 What I’m Focusing On
-
-Improving backend architecture & clean code
-
-Learning production best practices (logging, metrics, tracing)
-
-Studying distributed systems & concurrency
-
-Deepening Spring Boot enterprise development
-
-🚀 Highlighted Projects
-
-E-commerce with Spring Boot & JSP – backend-focused project with user authentication and MySQL
-
-Hospital Queue System (PHP) – simple queue management logic
-
-POS Realtime (Next.js + Supabase) – realtime system experiment (frontend + backend)
-
-(Nanti bisa kita pilih 3 project terbaikmu untuk ditampilkan lebih rapi.)
-
-📫 Contact
-
-Email: riyanhidayat.dev@gmail.com
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyanhidayat-15&theme=github-dark)
