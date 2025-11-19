@@ -1,4 +1,3 @@
-Riyan Hidayat — Backend Engineer
 👨‍💻 About Me
 
 Backend Engineer with a strong focus on building scalable, maintainable, and high-performance backend systems.
