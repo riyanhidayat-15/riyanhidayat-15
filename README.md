@@ -1,3 +1,11 @@
+Riyan Hidayat — Backend Engineer
+👨‍💻 About Me
+
+Backend Engineer with a strong focus on building scalable, maintainable, and high-performance backend systems.
+Currently specializing in Java (Spring Boot) and Golang, with interest in system architecture, clean code, API design, and production-grade backend engineering.
+
+I enjoy solving reliability issues more than creating new features.
+
 🛠️ Tech Stack (Core Skills)
 Primary
 
@@ -15,7 +23,6 @@ Docker (basic usage)
 
 Git & GitHub Workflow
 
-(Ini sudah sangat profesional. Tidak perlu brand yang tidak relevan seperti HTML, CSS, Flutter, Arduino, dsb.)
 
 📌 What I’m Focusing On
 
