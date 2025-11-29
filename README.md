@@ -1,3 +1,6 @@
+😎 Hey everyone, i'm Riyan Hidayat
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyanhidayat-15&show_icons=true&theme=github_dark&hide_title=true)
