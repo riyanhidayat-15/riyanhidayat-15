@@ -1,79 +1,74 @@
-<h1 align="center">👋 Hi, I'm <b>Riyan Hidayat</b></h1>
-<h3 align="center">Fullstack Developer | Passionate Learner | Tech Explorer</h3>
+<h1 align="center">Hi, I'm <b>Riyan Hidayat</b></h1>
+<h3 align="center">Fullstack Developer focused on building scalable business applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyanhidayat-15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  Building products with Laravel, Filament, Next.js, and Flutter.
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 I’m a developer who loves building **real-world applications**
-- 🚀 Currently learning **Next.js, Node.js, Go, Laravel**
-- 📚 Passionate about exploring **backend, frontend, DevOps**
-- 🎯 Goal: Become a **fullstack engineer** & build long-lasting products  
-- ⚡ Fun fact: I build fast, break things, fix faster.
+## About Me
+
+I'm a fullstack developer who enjoys turning business requirements into practical and maintainable applications.
+
+I primarily build administrative systems, internal tools, and customer-facing products with a strong focus on:
+
+- Business logic and system design
+- Clean and maintainable architecture
+- Database modeling and API development
+- Building products that can evolve over time
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Frontend
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,go,php" />
+- Next.js
+- Flutter
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+### Backend
 
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql" />
+- Laravel
+- Filament
+- Express.js
+- Go
 
-### **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
+### Database
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyanhidayat-15&show_icons=true&theme=github_dark&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanhidayat-15&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=riyanhidayat-15&theme=github-dark)
-
-</div>
+- MySQL
+- PostgreSQL
+- Supabase
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### 🔹 **Point of Sale (Realtime)**
-A modern POS app built with Next.js + Supabase.
+### Point of Sale System
 
-### 🔹 **Online Course Platform**
-Fullstack Laravel + React project for selling learning material.
+Realtime POS application with inventory management and transaction reporting.
 
-### 🔹 **Cafe Ordering System**
-Next.js + MySQL + Express backend.
+### Online Course Platform
 
-> 👉 *More projects coming soon…*
+Platform for selling digital learning materials with content management and payment workflows.
 
----
+### Cafe Ordering System
 
-## 📫 Contact Me
-<div align="left">
-
-- 📧 Email: **riyanhidayat.dev@gmail.com**  
-- 🪪 LinkedIn: https://linkedin.com/in/riyanhidayat  
-- 🌐 Portfolio: *coming soon…*
-
-</div>
+Ordering and management system with dashboard, order tracking, and reporting features.
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+## GitHub Stats
+
+<!-- GitHub Stats Here -->
+
+---
+
+## Contact
+
+📧 [riyanhidayat.dev@gmail.com](mailto:riyanhidayat.dev@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/riyanhidayat
+
+<p align="center">
+  Building software that solves real business problems.
+</p>
