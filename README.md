@@ -36,4 +36,4 @@ Sistem booking dengan pencarian kamar, form reservasi dengan validasi tanggal, d
 
 ### 📫 Hubungi Saya
 📧 Email: riyanhidayat.dev@gmail.com
-💼 LinkedIn: [linkedin.com/in/riyanhidayat](https://linkedin.com/in/riyanhidayat)
+💼 LinkedIn: [linkedin.com/in/riyanhidayat](www.linkedin.com/in/ryan-hidayat-7a18a9331)
